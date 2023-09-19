@@ -74,3 +74,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 06ee23de65be0c74f8c71272f180f5df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _networkManager: {fileID: 7643898140782612104, guid: 371cd21cc393853458c52aaeddbc40bb, type: 3}
+  _cameraServicePrefab: {fileID: 5465729405103306642, guid: 18c9812f4886ded4aa589bb59288970a, type: 3}
